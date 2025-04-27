@@ -1,5 +1,5 @@
 # unsup-face-analysis
-Implementation of [Towards Unsupervised Learning of Joint Facial Landmark Detection and Head Pose Estimation] chrome-(https://www.cs.uic.edu/~tangw/files/2025_PR_ZhimingZou.pdf) by Zhiming Zou,  Dian Jia and Wei Tang. If you find our code useful in your research, please consider citing:
+Implementation of [Towards Unsupervised Learning of Joint Facial Landmark Detection and Head Pose Estimation](https://www.cs.uic.edu/~tangw/files/2025_PR_ZhimingZou.pdf) by Zhiming Zou,  Dian Jia and Wei Tang. If you find our code useful in your research, please consider citing:
 
 
 ```
@@ -54,4 +54,5 @@ python train/train_3D_aware_aflw.py
 ### Acknowledgement
 This code is extended from the following repositories.
 -[IMM] (https://github.com/tomasjakab/imm)
+
 -[SSV] (https://github.com/NVlabs/SSV)
