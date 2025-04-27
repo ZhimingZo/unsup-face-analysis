@@ -24,7 +24,7 @@ Implementation of [Towards Unsupervised Learning of Joint Facial Landmark Detect
 
 ### Data Download from Google Drive: 
 
-please put all data into Data Folder
+please put all datasets into Data Folder
 
 ### Inference:
 
